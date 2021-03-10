@@ -1,0 +1,14 @@
+
+.contain {
+    text-align: center;
+}
+.text {
+    color: crimson;
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+.button {
+    background: yellow;
+    border-color: transparent;
+    padding: .5em;
+}
