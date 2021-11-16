@@ -1,1 +1,0 @@
-This is Khrobo's first git project
