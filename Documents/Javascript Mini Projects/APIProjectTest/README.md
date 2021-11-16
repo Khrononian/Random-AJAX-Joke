@@ -1,0 +1,1 @@
+Simple API project to practice and build up skills with ajax
