@@ -1,3 +1,3 @@
 # Random-AJAX-Joke
 
-Testing and working with APIs
+Testing and playing around with different APIs to understand how they function
